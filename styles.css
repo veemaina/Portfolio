@@ -1,0 +1,38 @@
+.container{
+    float: right;
+}
+nav li{
+    display: inline-block;
+    margin-right: 30px;
+}
+nav a{
+ text-decoration: none;   
+}
+a:hover{
+    background-color: black;
+    box-shadow: inset;
+}
+#interest{
+  text-align: center;
+}
+#hobbies{
+  text-align: center;
+}
+ul{
+  list-style: none;
+}
+#education{
+  text-align: center;
+}
+#project{
+  text-align: center;
+}
+.projects{
+  display:flex;
+  justify-content: space-around;
+  padding: 5%;
+}
+#footer{
+  text-align: center;
+  background-color: teal;
+}
