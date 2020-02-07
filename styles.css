@@ -39,6 +39,7 @@ ul{
 .image{
   border-radius: 100%;
   align-items: center;
+  max-width: 500px;
 }
 .vio{
   text-align: center;
