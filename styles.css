@@ -1,18 +1,36 @@
-.container{
-    float: right;
-}
-nav li{
-    display: inline-block;
-    margin-right: 30px;
-    background-color: teal;
-}
-nav a{
- text-decoration: none;   
-}
-a:hover{
-    background-color: black;
-    box-shadow: inset;
-}
+nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: gray;
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+    
+ nav ul li {
+      float: left;
+    }
+    
+  nav ul li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+ nav ul li a:hover:not(.active) {
+      background-color: #4b79a1;
+    }
+    
+    .active {
+      background-color: teal;
+    }
+ .image{
+   margin-left: 45%;
+ }   
 #interest{
   text-align: center;
 }
@@ -32,7 +50,6 @@ ul{
   display:flex;
   justify-content: space-around;
   padding: 5%;
-  margin-top: 0;
 }
 #footer{
   text-align: center;
