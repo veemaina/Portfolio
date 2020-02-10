@@ -32,6 +32,7 @@ ul{
   display:flex;
   justify-content: space-around;
   padding: 5%;
+  margin-top: 0;
 }
 #footer{
   text-align: center;
