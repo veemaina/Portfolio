@@ -4,6 +4,7 @@
 nav li{
     display: inline-block;
     margin-right: 30px;
+    background-color: teal;
 }
 nav a{
  text-decoration: none;   

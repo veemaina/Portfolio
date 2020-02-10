@@ -2,7 +2,7 @@
 ## Author
 Violet Maina
 ## Description
-This is my personal website.It contains my personal details including my hobbies,interest,education background,contacts and projects have worked on so far in my career of software developer.
+This is my personal website.It contains my personal details including my hobbies,interest,education background,contacts and projects have worked on so far.
 ## setup/installtion Requirement
 Open terminal
 git clone https://github.com/veemaina/portfolio.github.io.git
