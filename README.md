@@ -11,7 +11,7 @@ use code or atom .to open the clone repository on code or VScode respectively
 ## Known Bugs
 My navigation bar is not responsive but am working on it.
 ## livelink
-
+https://veemaina.github.io/portfolio.github.io/
 ## Tecnologies used
 * HTML 5
 * CSS3
